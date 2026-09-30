@@ -9,6 +9,5 @@
     jenkins_data_dir: "/data/jenkins"
     jenkins_lts_version: "2.492.1"
 
-
   roles:
     - jenkins-controller
